@@ -1,0 +1,3 @@
+.filter-label{
+    @apply lg:text-lg  xl:text-xl xl:font-semibold
+}
